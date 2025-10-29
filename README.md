@@ -1,5 +1,8 @@
 # 💫 About Me:
-🔭Hi, I'm <b>Aditya Singh</b> currently working on MERN projects<br>🤝 I’m looking to collaborate on Web development projects<br>🌱 I'm currently learning MERN development and Data Structures and Algorithm<br>💬 Ask me about Express, CPP and Front-end <br>📧 How to reach me rajg55351@gmail.com<br>⚡ Fun fact: Code cutie<br>
+<a href="https://rishavchanda.io">
+  <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="Coding" width="1000" align="right">
+</a>
+🔭Hi, I'm <b>Raj Gupta</b> currently working on MERN projects<br>🤝 I’m looking to collaborate on Web development projects<br>🌱 I'm currently learning MERN development and Data Structures and Algorithm<br>💬 Ask me about Expres, CPP and Front-end <br>📧 How to reach me rajg55351@gmail.com<br>⚡ Fun fact: Code cutie<br>
 
 
 ## 🌐 Socials:
