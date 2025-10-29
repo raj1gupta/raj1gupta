@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I'm currently working on MERN projects<br>🤝 I’m looking to collaborate on Web development projects<br>🌱 I'm currently learning MERN development and Data Structures and Algorithm<br>💬 Ask me about Express, CPP and Front-end <br>📧 How to reach me jiyar3472@gmail.com<br>⚡ Fun fact: Code cutie<br>
+🔭 I'm currently working on MERN projects<br>🤝 I’m looking to collaborate on Web development projects<br>🌱 I'm currently learning MERN development and Data Structures and Algorithm<br>💬 Ask me about Express, CPP and Front-end <br>📧 How to reach me rajg55351@gmail.com<br>⚡ Fun fact: Code cutie<br>
 
 
 ## 🌐 Socials:
