@@ -1,4 +1,4 @@
-# 💫 About Me:
+# About Me:
 <a href="https://opencv.org/">
   <img src="https://cdn.dribbble.com/users/926537/screenshots/4502924/python-2.gif" alt="Image Processing" width="1000" align="right">
 </a>
